@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Chest Pain (I Love)",
+  "base_artist": "Malcolm Todd",
+  "createdAt": "2025-12-30T05:33:02.727772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/01_Chest_Pain_(I_Love)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/02_Chest_Pain_(I_Love)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/03_Chest_Pain_(I_Love)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/04_Chest_Pain_(I_Love)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Video, Malcolm Todd",
+      "has_synced": true,
+      "path": "select/05_Chest_Pain_(I_Love)_Video,_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love)",
+      "artist": "Song, Malcolm Todd",
+      "has_synced": true,
+      "path": "select/06_Chest_Pain_(I_Love)_Song,_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love) (Official Visualizer)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/07_Chest_Pain_(I_Love)_(Official_Visualizer)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Malcolm Todd - Chest Pain (I Love) (Lyrics)",
+      "artist": "7clouds",
+      "has_synced": true,
+      "path": "select/08_Malcolm_Todd_-_Chest_Pain_(I_Love)_(Lyrics)_7clouds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love) (Paused)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/09_Chest_Pain_(I_Love)_(Paused)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chest Pain (I Love) (Official Visualizer)",
+      "artist": "Malcolm Todd",
+      "has_synced": true,
+      "path": "select/10_Chest_Pain_(I_Love)_(Official_Visualizer)_Malcolm_Todd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "has_synced": false,
+      "path": "select/pl_01_Chest_Pain_(I_Love)_Malcolm_Todd.txt"
+    }
+  ]
+}
